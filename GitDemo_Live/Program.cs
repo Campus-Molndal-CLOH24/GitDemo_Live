@@ -10,5 +10,7 @@ internal class Program
         {
             Console.WriteLine("Row:" + rows);
         }
+
+        Console.WriteLine("I'm out of here!");
     }
 }
