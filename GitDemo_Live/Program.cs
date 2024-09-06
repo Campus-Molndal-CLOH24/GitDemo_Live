@@ -1,4 +1,3 @@
-// Tjohoooo!!!
 namespace GitDemo_Live;
 
 internal class Program
