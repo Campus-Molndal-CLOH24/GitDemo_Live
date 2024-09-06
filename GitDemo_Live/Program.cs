@@ -1,4 +1,5 @@
-﻿namespace GitDemo_Live;
+// Tjohoooo!!!
+namespace GitDemo_Live;
 
 internal class Program
 {
